@@ -1,6 +1,6 @@
-## Hi there 👋
+## Tavish King
 
-# <i class="fa fa-male" aria-hidden="true"></i> About Me:
+# About Me:
 - Operations Data Analyst @ Buyerlink
 
 
