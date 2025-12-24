@@ -1,4 +1,4 @@
-# Tavish King
+# Tavish King <i class="fa-solid fa-person-hiking"></i>
 
 ## About Me:
 - Operations Data Analyst @ Buyerlink
