@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# <i class="fa fa-male" aria-hidden="true"></i> About Me:
 - Operations Data Analyst @ Buyerlink
 
 
