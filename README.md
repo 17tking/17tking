@@ -1,11 +1,11 @@
 # What's up! I'm Tavish King 
 
-I use github to present some of the data projects I work on to help me upskill. I have created these projects on my own so they're not always crisp like a youtube walkthrough. Mostly, my repos showcase where I am growing in my field of data analysis/engineering. Forever a passionate learner and tying in my hobbies with my career. Find the balance!
+I use github to present some of the data projects I work on to help me upskill. I have created these projects on my own so they're not always crisp like a youtube walkthrough. Mostly, my repos showcase where I am growing in my field of data analysis/engineering. Forever a passionate learner and forever tying in my hobbies with my career. Find the balance!
 ## About Me
 
-My favorite part of data analysis is designing the visual I'll use for a report or presentation. It brings out my creative side to working. Least favorite part? Well...it depends doesn't it?
+My favorite part of data analysis is designing the visual I'll use for a report or presentation. It brings out my creative side to working.
 
-Lately, I've elevated my career to the engineering side of data, or getting it from one spot to the next. My Utah Mountain Conditions repo showcases this. Before I set off on a 15 mile roundtrip hike to Mt.[insert name here], this data that I've engineered from start to finish will let me know the forecast and conditions that I should prepare for, keeping both my friends or I safe. 
+Lately, I've elevated my career to the engineering side of data, or getting it from one spot to the next. My Utah Mountain Conditions repo showcases this. Before I set off on a 15 mile roundtrip hike to Mt.*watchamacallit*, this data that I've engineered from start to finish will let me know the forecast and conditions that I should prepare for, keeping both my friends or I safe. 
 
 I love Legos, reading, and lately trying out golf, but we will see how that goes. You do not want to see my swing yet...
 
