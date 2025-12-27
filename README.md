@@ -7,6 +7,8 @@ My favorite part of data analysis is designing the visual I'll use for a report 
 
 Lately, I've elevated my career to the engineering side of data, or getting it from one spot to the next. My Utah Mountain Conditions repo showcases this. Before I set off on a 15 mile roundtrip hike to Mt.[insert name here], this data that I've engineered from start to finish will let me know the forecast and conditions that I should prepare for, keeping both my friends or I safe. 
 
+I love Legos, reading, and lately trying out golf, but we will see how that goes. You do not want to see my swing yet...
+
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/king.tavish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tavish-king) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kingalytics) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tavishk4@gmail.com) 
