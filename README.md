@@ -5,7 +5,7 @@ I use github to present some of the data projects I work on to help me upskill. 
 
 My favorite part of data analysis is designing the visual I'll use for a report or presentation. It brings out my creative side to working. Least favorite part? Well...it depends doesn't it?
 
-Lately, I've elevated my career to the engineering side of data, or getting it from one spot to the next. My Utah Mountain Conditions repo showcases this. Before I set off on a 15 mile roundtrip hike to Mt.[insert name here], this data that I've engineered from start to finish will let me know the forecast and conditions that I should prepare for. 
+Lately, I've elevated my career to the engineering side of data, or getting it from one spot to the next. My Utah Mountain Conditions repo showcases this. Before I set off on a 15 mile roundtrip hike to Mt.[insert name here], this data that I've engineered from start to finish will let me know the forecast and conditions that I should prepare for, keeping both my friends or I safe. 
 
 
 ### Socials
